@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+    background-color: #dddddd;
+    margin: 5;
+    display: inline;
+    display: block;
+}
+
+a {
+    display: block;
+    padding 12px;
+    background-color: #dddddd
+}
+
+li a {
+    display: block;
+    display: inline;.
+    float: center;
+    color: white;
+    text-align: center;
+    background-color: #dddddd
+    padding: 14px 16px;
+    text-decoration: none;
+}
