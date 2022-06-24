@@ -22,8 +22,13 @@ li a {
 div {
     background-color: #38E824;
     height: 180px;
+    margin: 0 auto;
 }
 
-img.bannerlogo {
-    font-size: 30
+body {
+    background-image: url(tiled.jpeg);
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    background-position: top left, bottom right;
+    background-attachment: fixed;
 }
