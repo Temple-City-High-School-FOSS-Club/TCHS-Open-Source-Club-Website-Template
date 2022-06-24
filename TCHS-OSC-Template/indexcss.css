@@ -23,6 +23,10 @@ div {
     background-color: #38E824;
     height: 180px;
     margin: 0 auto;
+    text-align: center;
+    margin-left: -50px auto;
+    margin-right: -50px auto;
+    margin-top: -20px auto;
 }
 
 body {
@@ -31,4 +35,12 @@ body {
     background-repeat: repeat;
     background-position: top left, bottom right;
     background-attachment: fixed;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
 }
