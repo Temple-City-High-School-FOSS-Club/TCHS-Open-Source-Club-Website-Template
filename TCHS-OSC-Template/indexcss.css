@@ -1,15 +1,7 @@
 ul {
     list-style-type: none;
-    background-color: #dddddd;
     margin: 5;
-    display: inline;
-    display: block;
-}
-
-a {
-    display: block;
-    padding 12px;
-    background-color: #dddddd
+    display: flex;
 }
 
 li a {
@@ -21,4 +13,17 @@ li a {
     background-color: #dddddd
     padding: 14px 16px;
     text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    color: black;
+}
+
+div {
+    background-color: #38E824;
+    height: 180px;
+}
+
+img.bannerlogo {
+    font-size: 30
 }
